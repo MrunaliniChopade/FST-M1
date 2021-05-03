@@ -1,0 +1,6 @@
+username = input("Enter Username")
+print("Username is " + username)
+age = int(input("Enter Age "))
+print("User Age is " + "age")
+c= str((2021- age) + 100)
+print(username + " will be of 100 years old in " + c)
